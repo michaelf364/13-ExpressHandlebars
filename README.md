@@ -1,5 +1,6 @@
-# Note Taker
+# Burger Tracker
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/michaelf364/11-express)
+
 This is a website used to track burgers you want to try and what burgers you have already tried
 
 ## Table of Contents 
